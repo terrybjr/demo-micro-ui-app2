@@ -3,10 +3,10 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.micro-ui</groupId>
-        <artifactId>demo-micro-ui-app1</artifactId>
+        <artifactId>demo-micro-ui-app2</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <artifactId>web-app1</artifactId>
+    <artifactId>web-app2</artifactId>
     <name>web-app</name>
     <packaging>war</packaging>
     <properties>
@@ -24,7 +24,7 @@
     </dependencies>
 
     <build>
-        <finalName>web-app1</finalName>
+        <finalName>web-app2</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
@@ -83,7 +83,7 @@
                             <arguments>
                                 <argument>build</argument>
                                 <argument>--base-href</argument>
-                                <argument>/app1</argument>
+                                <argument>/app2</argument>
                             </arguments>
                         </configuration>
                     </execution>

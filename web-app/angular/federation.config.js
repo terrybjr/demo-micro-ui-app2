@@ -2,7 +2,7 @@ const { withNativeFederation, shareAll } = require('@angular-architects/native-f
 
 module.exports = withNativeFederation({
 
-  name: 'app1',
+  name: 'app2',
 
   exposes: {
     './Component': './src/app/app.component.ts',
