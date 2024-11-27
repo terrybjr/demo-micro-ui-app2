@@ -83,7 +83,7 @@
                             <arguments>
                                 <argument>build</argument>
                                 <argument>--base-href</argument>
-                                <argument>/app2</argument>
+                                <argument>/micro-ui/app2/</argument>
                             </arguments>
                         </configuration>
                     </execution>
