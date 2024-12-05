@@ -76,9 +76,7 @@
 						"styles": [
 							"src/styles.css"
 						],
-						"scripts": [],
-            "baseHref": "/micro-ui/app2/",
-            "deployUrl": "/micro-ui/app2/"
+						"scripts": []
 					},
 					"configurations": {
 						"production": {
